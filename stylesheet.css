@@ -1,8 +1,8 @@
 @charset "UTF-8";
-.title {
+h1 {
   color: #02ccba;
 }
-.product-selection{
+h2{
   color:green;
 }
 body{
